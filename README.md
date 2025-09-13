@@ -7,19 +7,15 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Start the program.
+1.Import necessary libraries and load data
 
-2.Data preprocessing.
+2.Split dataset into Training and Testing sets
 
-3.Cleanse data,handle missing values,encode categorical variables.
+3.Train the model using Stochastic Gradient Descent(SGD)
 
-4.Model Training:Fit logistic regression model on preprocessed data.
+4.Make predictions and evaluate accuracy
 
-5.Model Evaluation:Assess model performance using metrics like accuracy precision,recall
-
-6.Prediction:Predict placement status for new student data using trained model.
-
-7.End the program.
+5.Generate confusion matrix
 
 
 ## Program:
@@ -30,20 +26,18 @@ Developed by: YUVASHREE R
 RegisterNumber:  212224040378
 */
 ```
+<img width="917" height="660" alt="381915105-9b8e1b29-003e-4faf-8215-279c3c80cccb" src="https://github.com/user-attachments/assets/278b8ecf-cba0-4fdf-9675-19cbf384e412" />
+
+<img width="422" height="217" alt="381915158-6f4a9ee7-41bc-4933-9c7a-1777726e01d9" src="https://github.com/user-attachments/assets/9d5c80ad-c714-4c8c-82e4-cd79d57bcb85" />
+
+
 
 ## Output:
 ![prediction of iris species using SGD Classifier](sam.png)
 
-<img width="713" height="663" alt="image" src="https://github.com/user-attachments/assets/bcab3c76-70cb-4eb2-8021-3e323d73f42d" />
-<img width="730" height="659" alt="image" src="https://github.com/user-attachments/assets/2c1a3d1e-d2db-48c7-883d-46223a29204a" />
 
-# Output:
+<img width="930" height="480" alt="381915218-e84498ea-1010-4b8e-9c8e-a11888749794" src="https://github.com/user-attachments/assets/358fd116-fd29-44a5-b447-3140fbc10658" />
 
-<img width="1379" height="222" alt="image" src="https://github.com/user-attachments/assets/67951bac-3cc4-41c9-9e26-fa706e03bd30" />
-
-<img width="1732" height="227" alt="386229754-220aa819-4604-4c8a-8d2b-649d917ec4df" src="https://github.com/user-attachments/assets/6beeb985-9b11-458b-a77e-5ca05d2af4ff" />
-
-<img width="876" height="421" alt="386230018-eae5251e-b19c-40f0-b5dc-ab4bfd8983f1" src="https://github.com/user-attachments/assets/120d5779-55d0-4e19-a52d-7adf45b6b237" />
 
 
 
